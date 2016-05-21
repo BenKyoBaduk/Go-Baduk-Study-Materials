@@ -1,0 +1,232 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Basic Invasions]PB[Basic Invasions]
+(;B[pd]
+(;W[qc]
+;B[qd]
+;W[pc]
+;B[oc]
+;W[ob]
+(;B[nc]
+;W[nb]
+;B[mc]
+(;W[rd]
+;B[re]
+;W[rc]
+;B[qf])
+(;W[ss]C[White is alive, but playing elsewhere is usually wrong...]
+;B[rd]
+;W[rc]
+;B[mb]C[This is actually sente (1-dan level life and death problem now if white ignores)]
+;W[qb]C[Painful for white, black plays elsewhere now.]))
+(;B[nb]C[Possible!]
+(;W[nc]
+;B[od]
+;W[mb]
+;B[pb]
+;W[na]
+;B[qb]C[A trade]
+;W[nd])
+(;W[rd]
+;B[re]
+;W[qe]LB[od:A][pe:B]C[Trying to make a different kind of trade than just capturing black O18 and letting black capture the corneri n exchange (that variation is included, go check it).
+
+This move threatens double atari, so black can only answer at A or B.]
+(;B[od]
+;W[rf]
+;B[rc]
+;W[se]
+;B[rb]C[A trade. Black looks good, but since black originally blocked this side off trying to get it (the right side), odds are this is directionally questionable for black (though it might be okay because of so much local gain for black, the result is ENTIRELY dependent on the board).])
+(;B[pe]C[This only works for white is white S17 forces black R14. If it doesn't, white cannot choose R15 in the first place.]
+;W[rc]LB[nc:A][nd:B][qf:C][rf:D]C[If black is able to play A/B now instead of C, this will not be a good result for white.
+
+Black could choose A or B instead of C if, for example, black has support close by o nthe right side and is able to respond to white C at black D, which is otherwise usually a bad idea (coming out with black D, which can be greedy in some cases). It's often good to sacrifice that, since it's crawling on the second line and behind white (white is 'ahead").]
+;B[qf]
+;W[nc]
+;B[od]
+;W[mb]C[This is white's plan when they cut at R15. Black is thick, but locally white is pretty nice for sure. Black atari at Q18 does not do anything to white's corner, it's a bad move.]))))
+(;W[as]
+(;B[qf]
+;W[qc]C[Without support nearby o nthe top side for white, this wil lbe ko...]
+;B[pc]
+;W[qd]
+;B[qe]
+;W[pb]
+;B[ob]
+(;W[qb]
+;B[rd]LB[nb:B][oc:A]C[White dies unelss there's supporting stones on the top somewhere to help with cutting or clamping black at A or B. B is not something we want to resort to though, we will have tiny territory even if we survive. That's why this type of corner (4-4 + knight's move) is often not invaded directly.]
+(;W[oc]
+;B[nb]C[White is dead. In terms of the stones seen here alone, white has no special tactic to capture any outside black stones.])
+(;W[rc]
+;B[re]
+;W[oc]
+;B[nb]C[White is dead]))
+(;W[rb]C[This technique makes a "ko for life."
+
+For any hope of capturing white, black must atari.]
+;B[pa]
+;W[qa]
+;B[qb]C[ko fight!]))
+(;B[qg]C[4-4 + large knight's move.]
+;W[qc]C[Unconditional life]
+;B[pc]
+;W[qd]
+;B[qe]
+;W[re]
+;B[rf]
+;W[pe]C[Having an atari here is related to how this white lives unconditionally even though the knight's move version is ko.]
+;B[qf]
+;W[pb]
+;B[ob]
+;W[qb]LB[oc:B][rd:C][pe:A]C[Black does not have time in this case to kill white's whole corner with C, because of white A. White A makes white's cut/atari at B a big problem. White B would work perfectly.]
+(;B[rd]
+;W[oc]
+;B[od]
+;W[nc]
+;B[nb]C[Black stubbornly saving this to keep white dead. But...]
+;W[nd]
+;B[oe]
+;W[mb]C[One of many variations here where black will be captured.])
+(;B[nc]C[Best way of fixing the cut, a little better than solidly connecting.]
+;W[rd]C[White is now alive.]
+(;B[oe]C[Usually this is the proper next move for black. Black can sometimes omit it, but the aji (bad potential) is bad if white is not tightly captured like this.])
+(;B[bs]
+;W[oe]
+(;B[nd]
+;W[og])
+(;B[og]
+;W[nd]
+(;B[oc]
+;W[lc])
+(;B[mc]
+;W[oc]))))))
+(;W[qf]
+(;B[qh]C[Other pincers in this general area, such as Q11 or anywhere thereabouts, can also be played as follows...]
+(;W[as]
+;B[pf]
+;W[bs]
+;B[cs]
+;W[pe]
+;B[oe]
+;W[qe]
+;B[pg]
+;W[qd]
+;B[pc]
+;W[qc]
+;B[qb]
+;W[rb]
+;B[pb]
+;W[ra])
+(;W[qc]
+;B[qd]
+;W[pc]
+(;B[od]
+;W[rd]
+;B[re]
+;W[rc]
+;B[qe]
+;W[nc]C[Very important joseki to know!])
+(;B[oc]C[Overplay! COntinue to see punishment]
+;W[rc]LB[od:B][rd:A]C[If black allows white to cross underneath (connect), black will not be staying true to black's original intention of getting the right side of the board (black's pincer...). When white connects up, R12 will end up not in an ideal position.
+
+But if black blocks at A, black dies somewhere. Black must compromise with B right now and allow white A, though white is basically better at this point no matter what.
+
+See the continuation of black A!]
+;B[rd]
+;W[od]LB[oc:A][pd:B]C[Black must save one of either A or B. One dies.
+
+White does not need to worry about black playing some kind of atari, they do not help.]
+(;B[nc]
+(;W[pe]C[Black's 3 stones are dead, white's cuts'liberty problems do not matter.]
+(;B[rf]
+;W[re]C[tesuji])
+(;B[oe]C[No help]
+;W[nd]
+;B[qe]
+;W[pf]
+;B[rf]
+;W[sd]
+;B[re]
+;W[rg]))
+(;W[oe]LB[pe:A]C[MISTAKE
+
+White should play at A in this case, even tohugh it's terrible shape.
+This white move is normally the proper shape, but i nthis case we need to make sure we capture black. We are not playing into a lengthy fight that will expand in to the center. We are simply capturing a black group in this case and ending (WINNING!) the fight immediately with A.]))
+(;B[pe]C[Anything like this, white just captures the upper black stone. We don't care about our white R14 stone, white is very good after capturing o nthe top.]
+;W[nc]
+;B[ob]
+;W[nb])
+(;B[oe]C[No help]
+;W[nd]
+;B[nc]LB[pe:A]C[Not a threat. It looks like black can play a ladder next, but when we cut at A to kill black's 3 stone group, it also turns black's ladder into a broken ladder.]
+;W[pe]
+;B[md]
+;W[ne]C[Not ladder.]))))
+(;B[nc]
+;W[qc]LB[rd:A]C[Usually white chooses A, and invading directly in this case is usually not good early in the game. But it can be good later and it's important to know it!]
+;B[qd]
+;W[rd]
+;B[re]
+;W[rc]
+;B[qe]C[Now that white has made these exchanges and gained some liberties in thecorner, white can move faster on the top!]
+;W[ob]
+(;B[nb]
+;W[oc]
+;B[od]
+;W[pc]
+;B[me]C[Black is better if the game is early.])
+(;B[oc]
+;W[nb]
+;B[mb]
+;W[pc]
+;B[mc]))
+(;B[mc]LB[qc:A][qd:D][rd:B][qi:C]C[In this case since black is plying a slightly greedy move in terms of the local position (the knight's move is a bit far, it's a large knight's move), entering at A is a good mvoe for white even in the early game, where usually it's too early. The black stone's distance makes a big difference in the final result, so black's thickness (wall) etc. does not end up too superior to white's territory.
+
+Important notes:
+
+- If White chooses the joseki of white B, black A, white C, it will be better for black because normally black's large knight's move on the top is a knight's move, which means black would get more territory this time with no consequence.
+
+- If white leaves the position alone, black can block at D later and the corner will be a bit larger than normal.
+
+This is black's plan, so white should go into A immediately (locally speaking, anyway). If a strong player chooses black's N17 move, there's probably a special whole-board reason.]
+;W[qc]
+;B[qd]
+;W[rd]C[White Q17 first is also possible, but I prefer this one.]
+;B[re]
+;W[rc]
+;B[qe]
+;W[ob]C[Black 's not perfectly conencted right now and any way of connecting wil lend in gote, so this is mildly awkward for black now. This is why white's invasion is pretty good.])))
+(;B[dp]
+;W[pd]
+;B[dd]
+;W[pp]
+;B[nq]
+;W[qn]
+;B[jp]
+;W[cn]
+;B[cl]
+;W[cq]
+;B[dq]
+;W[cp]
+;B[do]
+;W[bn]
+;B[em]
+;W[ja]
+;B[ka]
+;W[la]
+;B[ma]C[... later...]
+;W[lq]
+;B[lp]
+;W[kq]
+;B[kp]
+;W[jq]
+(;B[mq]
+;W[hq]
+;B[ip]
+;W[gr]C[White is alive as long as white plays correctly])
+(;B[iq]
+;W[ir]
+;B[hq]
+;W[mq]
+;B[mp]
+;W[oq]C[White's territories connect this way.])))

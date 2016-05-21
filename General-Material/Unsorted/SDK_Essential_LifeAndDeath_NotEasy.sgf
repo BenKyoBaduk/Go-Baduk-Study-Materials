@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Life and Death]PB[Life and Death]AW[db][qb][bc][cc][dc][qc][bd][qd][re][rf][bn][rn][bo][ro][ap][cp][qp][cq][qq][cr][dr][rr]AB[eb][gb][pb][ec][pc][cd][dd][ed][pd][be][qe][cf][qf][qg][rg][am][bm][cm][qm][rm][an][cn][qn][co][po][qo][dp][pp][dq][fq][pq][er][pr]C[Important Life and Death for the SDK player.
+
+Everything in this file is black to play.
+
+Do not play stones for solving any of these problems. Getting the answer is not the important part.
+
+I will eventually show you all the answers regardless.
+
+*Before eve starting these, you may want to make sure you know the proper main sequences for different types of corner invasions:
+
+4-4 (3-3 invasion)
+4-4 + knight's move
+4-4 + large knight's move
+4-4 + knight's move when invader has an approach move
+
+These are basic so you really need to get them down.
+I believe if you have those invasion sequences down and then make a lot of progress on (or completely solve) the problems in this file, your life and death will already be pretty advanced!!
+
+It should be motivating because being able to solve all these and remember the solutions over the long term really will make you strong. They will also help you reason through shapes with similar aspects to them.
+
+Good luck!]
+;AE[db][eb][pb][pd][be][cf][qf][rf][qg][rg][am][qm][rm][an][qn][rn][po][ap][pp][fq][er][rr]AW[ec][fc][oc][pc][qe][se][cn][co][rp][rq][pr][qs]AB[ib][qb][gc][qc][sc][bd][fd][gd][rd][bf][dm][bn][dn][do][ro][qp][oq][dr][fr][or]C[In case you are wondering, I'm not telling you what the status of these shapes should be. You have to find it yourself, and it's okay if you never find it. The process is what cultivates you.
+
+For all you know there may be an impossible problem in here somewhere ;)
+
+I really like the upper left solution. There are ltos of things to try there, so don't feel lost if you get bogged down by the possibilities (even the first move). That's normal! Just push forward and you will become strong ;)]
+;AE[gb][ib][dc][gc][oc][sc][gd][rd][bf][do][rp][oq][rq][qs]AW[eb][qb][qc][bd][bm][cm][dm][bn][dn][eo][qo][ro][dp][qp][sp][dq][br][dr][fr][qr]AB[fb][pb][fc][pc][pd][be][qe][cf][qf][rf][cn][pn][qn][rn][sn][bo][co][po][so][cp][pp][cq][nq][cr]C[These are mega practical, and not all that simple.]
+;AE[eb][fb][bd][be][cf][bm][cm][dm][bn][cn][dn][cp][dp][cr][dr][fr]AW[qa][ab][bb][cb][dc][fc][gc][hd][he][ff][gf][cg][dg][eg][gg][bi][ci][bp][ep][fp][bq][gq][gr][as]AB[rb][bc][cc][ad][ce][hf][fg][hg][dh][eh][fh][gh][hh][ao][do][eo][fo][go][ap][gp][ip][aq][iq][ir]C[5 BONUS PROBLEMS! (one on the next set)
+
+Upper right is easy if you think thoroughly and carefully.
+
+Upper left is very hard.
+
+Lower left is tesuji, medium difficulty.
+
+Lower right is almost as easy as the upper right, but could trip you up.
+
+The final problem on the next set is very difficult.]
+;AE[qa][ab][bb][cb][pb][qb][rb][bc][cc][dc][ec][fc][gc][pc][qc][ad][cd][dd][ed][fd][hd][pd][qd][ce][he][qe][re][se][ff][gf][hf][qf][rf][cg][dg][eg][fg][gg][hg][dh][eh][fh][gh][hh][bi][ci][pn][qn][rn][sn][ao][bo][co][do][eo][fo][go][po][qo][ro][so][ap][bp][ep][fp][gp][ip][pp][qp][sp][aq][bq][cq][dq][gq][iq][nq][pq][qq][br][gr][ir][or][pr][qr][as]AW[kh][ii][li][ik][kk]AB[jj]C[Black to escape. This is tricky and it's very important to think even harder for white than for black. This is a classic challenge passed down for time immemorable :)])

@@ -1,0 +1,300 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[White]PB[Black's "Early Cash" Opening]
+;B[qd]
+;W[dd]
+;B[pq]
+;W[dp]
+;B[oc]
+(;W[po]
+;B[qo]
+;W[qn]
+;B[qp]
+(;W[pn]C[old/classic]
+;B[nq]
+(;W[qj]
+;B[qh]
+;W[oj]
+;B[cj])
+(;W[pj]C[a special strategy for white]
+;B[qh]
+(;W[dj]C[continue this branch for the way for black to invade... (2 ways)]
+(;B[pl]C[this method gets sente]
+;W[ql]
+;B[qk]
+;W[pk]
+;B[rl]
+;W[qm]
+;B[qj]
+;W[pi]
+;B[qg]
+;W[ol]
+;B[fc])
+(;B[ql]C[this method is locally better but is gote]
+;W[pl]
+;B[qk]
+;W[pk]
+;B[qj]
+;W[pi]
+;B[qg]
+;W[jd]))
+(;W[rj]C[much too slow, better off extending third line in the first place in that case])))
+(;W[pm]LB[rd:A][qe:B]C[// also classic (less classic) but modern way is usually to probe at A, or recently to choose B.
+
+The reason it's common to play this kind of move down here AFTER A/B stuff is because this move or Q6, giving black the O3 move, is just making the white stones down here heavier - more of a liability.
+
+Keeping them light for now is better since we don't know if we will be able to exchange this for O3 later. We need to see out the top corner first.]
+;B[nq]
+;W[qi]LB[qg:C][qj:B][ql:E][on:D][pn:A]C[foregoing the probe/attach on the corner and just going here is a perfectly fine way to play, tried and try. it's just considered a little less modern.
+
+Note that this way has more points and speed than connecting at A and playing B, but a lot more bad aji as well. Nonetheless people still choose it most of the time.
+
+The aji variations will be shown in branches from HERE. From here I also include the branch from black's checking extension at C, which is generally played now. C is an important branch to learn.
+
+I will mark the other branches (showing white's bad aji stuff) with D and E.]
+(;B[on]LB[ql:A][om:D][pn:C][rn:B][oo:E]C[From experience I can tell you that this is often best not played. But there are some scenarios where this is a good move, a good (yet subtle) exchange to make.
+
+When black uses this to force white C, an invasion at black A no longer works because it can't connect under at B. This is a very important consideration and a reason to leave this peep in reserve, possibly never playing it in the game.
+
+If white tries to counter this peep with D or E to try to make black's one stone heavier or something before connecting, black has a powerful counter to that counter: B.
+
+See variation from off of white E or D.]
+(;W[oo]
+;B[rn]
+(;W[rm]
+;B[pn]C[Not working for white]
+;W[qm]
+(;B[no])
+(;B[nn]C[here if you don't mind white pushing out. This has better aji than the hane (which does work at this point too), but it allows white to push and run out if they want. This might be fine for black though.]))
+(;W[nn]
+;B[ql]C[This is a trade. in most cases this should be good for black.]))
+(;W[om]
+;B[rn]
+(;W[nn]
+;B[ql]C[A trade, but it looks good for black for most cases.])
+(;W[rm]
+;B[pn]C[working for black now...]
+;W[qm]
+;B[nn]
+;W[nm]
+;B[mn])))
+(;B[qg]
+(;W[oi]
+;B[cj]C[Normla result])
+(;W[dj]
+;B[ql]LB[rm:A]C[This is black's follow-up to the checking extension. It's the reason why the short checking extension is not really too slow.
+
+White answers with A. Note that white A does mean black gets a little less now in the lower right corner. Strong Go players are aware of all of these pros and cons and how they affect the balance that they're trying to always keep track of.
+]
+;W[rm]LB[pj:B][rj:A]C[A or B. B is more niche because the wall black gets needs to be for the right scenario to be worth it I think. Nonetheless they are both really good choices. There are also times when A is not right, and is too territory-obsessed. Go is a global, whole-board game. But A is arguably more common.]
+(;B[rj]
+;W[pk]C[There may be other possible choices, but this is the common more here. It does the best job of trying to unite white's forces. White knows black cannot be captured, and letting black run out with the two white groups cut off would be bad or even fatal.
+
+Note also that black's function here is to either cut the two white sides off and run off, or to make (and steal) territory, hopefulyl in sente. If black loses such functions, it becomes nothing more than a useless liability.]
+(;B[ri]LB[qk:A]C[This looks powerful and makes a big difference in the balance of territory compared to how it all started, but it's another gote and white can tenuki.
+
+A is locally thick and nice for white, but white is actually light in the current situation and may want to just tenuki a second time.
+
+Black is a bit slow, so this is probably too soft for black.])
+(;B[pj]C[This is black's tesuji to create problems for white, and this is the classic but still used variation. Tried and true.]
+;W[qj]
+;B[qk]
+;W[ok]C[This is the only response that both keeps white's forces connected (for now) and has any hope of capturing black's one stone on the outside in the future.]
+;B[ri]LB[qh:B][rh:C][oi:D][pi:A][pl:E][op:F]C[White A is ladder, but that's not good enough. Black would get a free move elsewhere and then play a follow up as well.
+
+White wants to exchange B for C and capturei n a net with D, but white still has a problem at E.
+
+Thus, the next move is F. With a white stone at F, even if black pushes and cuts with E, black can just run it down and capture it using F.]
+;W[op]LB[nn:B][on:A][oq:C]C[This is definitely sente. However, there have been some studies of a counter at A. 
+
+****The black well-timed peep at A idea is going off on a bit of a tangent, so ignore that explanation if you want to keep things simple for yourself. I don't go into much exact detail anyway.
+The next part to learn otherwise comes after black's connection at C, so just go from there if you like.***
+
+If black could get the exchange at A and make white just connect, the cut problem white's doing all this to fix would awaken again.
+
+If black A, white should not just connect. But white's push and cut on black's corner also doesn't work well, which is part of black A's magic.
+
+White can actually counter black A using white B.
+
+Anyway, black A is a really rare thing not really seen much, and I don't think you have to worry about it. Especially since you're playing black most of the time if you like this opening. Just don't play black A, or play it and have fun.
+
+Just research it more yourself for the fine details, it's not one of the important knowledge points of this opening.]
+;B[oq]
+;W[qh]LB[rd:E][qe:F][ph:C][rh:A][oi:B][pm:D]C[If black A, white B and it's the end of the sequence. White gained influence/thickness and has no major weak points left, but black gained and stole territory in sente.
+
+Black actually has a counter variation at C, which can be fatal for either side if played incorrectly or in the wrong context. I have included a variation or two for it.
+
+Otherwise, go back to the point before white's early D move, and check out the variations from that early points where white plays E or F.]
+(;B[ph]CR[hp][ip][jp][kp]C[This move attempts to squeeze white into an ugly shape.
+
+It seems like black can choose this if he has the ladder around the marked direction.]
+;W[pi]
+;B[oi]C[black is trying to squeeze white]
+(;W[oj]C[Very wrong!]
+;B[rh]
+;W[pj]
+;B[oh]C[Black is much better. This white can be attacked in the future, too, depending on how the game develops.
+
+White does get sente though. Usually it's gote for this.])
+(;W[rh]C[White fights back! Proper way to play.]
+(;B[oj]C[If here, it's fairly obvious what white needs to do if you think about it. There are a lot of options, but remember that white is not supposed to get a poor result! That means you can prune out the possibilities from your thinking that aren't nice for white.]
+;W[oh]C[This is the only move, lest white die.]
+;B[pg]
+;W[ni]C[Ladder!])
+(;B[rg]
+;W[oj]C[White gets ugly in this variation, but at least black's territory gets pushed down a bit compared to a worse similar variation (white capturing the one stone immediately instead).]
+;B[sh]
+;W[pj]
+;B[oh]C[White sente. This starts to feel somewhat playable for white despite everything. Black's territorial gains at the point have ended up really small.])))
+(;B[rh]
+;W[oi]
+;B[fc])))
+(;B[pj]
+(;W[rk]
+;B[rj]
+;W[qj]
+;B[qk]
+;W[rl]
+;B[pi]
+;W[ri]
+;B[qh])
+(;W[qj]
+;B[qk]
+;W[rk]
+;B[rl]
+;W[sl]
+;B[rj]
+;W[sk]
+;B[pi]
+;W[ri]
+;B[qh]))))
+(;B[ql]LB[qg:A][rm:B]C[This is usually played when black is already on A. But this branch is to just show you a strong ko black can make to threaten white ferociously, regardless of white's around A.
+
+The ko is rarely played, but it's important to know about it. The ko seeks to separate the white groups.
+
+As always, white responds at A to: 1. keep black cut fro mthe corner 2. threaten to conenct under to the friendly white stone. White virtually never plays a response other than B.]
+;W[rm]
+;B[qj]LB[pi:A][ok:B]C[This is how black tries to separate white and how things result in a ko. Again, this is not played often, but it can be a powerful course of action. I like to try it when I'm behind. I set up the surrounding situatiosn nicely for it first, especially since my opponents tend to not expect it!
+
+White A, then black B separates! So instead, white usually tries to conenct forcefully. Onward!]
+;W[rj]
+;B[rk]
+;W[pj]
+;B[pk]C[The ko! Make sure you plan ahead first.]))
+(;W[rd]
+(;B[qc]C[Usually too passive. White has made a positive exchange and need not worry much about that now.]
+;W[pm]
+;B[nq]
+;W[qi]
+;B[qg]
+;W[oi]
+;B[cj]LB[qe:A]C[Aji of white A is left.])
+(;B[rc]LB[pd:A][qe:B]C[A or B can be sente when white chooses.]
+;W[pm]
+;B[nq]
+;W[qi]
+;B[qg]
+;W[oi]C[Remember that white can always choose to tenuki instead of playing here. Many players will respond here though.])
+(;B[qe]C[The basis of white's original plan with this probe back when it was first conceived.
+
+This used to be considered playing into white's hands, but updated thinking and variations have deemed this the best move! Black is not bad at all.]
+;W[pm]
+;B[nq]
+;W[qi]
+(;B[re]C[Forcing black into this was the basis of the plan. Black is certainly too slow if it goes like this.
+Black plays this out of concern for white living in the corner, either by playing R17 or by first pushing at S15. But this move too slow, and the current popular trend now that has contributed to the revival of this fuseki for black is the choice of playing elsewhere instead of this turn at S15. Black doesn's bother with a checking extension at R13.]
+;W[fc])
+(;B[qg]
+;W[oi]LB[rb:B][qc:A]C[There is life for white at A unless black is thick enough all around to respond hardcore with B.
+
+White is certainly not bad, probably better.])
+(;B[fc]LB[rd:B][qe:A]C[Play somewhere else is the current trend for black right now, and people seem to think white is inadequate, or at least not at an advantage. White's corner is vulnerable but black is thick.
+
+Because of black playing elsewhere now and placing value on thickness he gains in the upper right, which is the current preference, pros have started playing A instead of B. See AlphaGo matches!]
+;W[ba]
+;B[ca]
+;W[re]LB[rc:A][qf:B]C[People also thought that this follow up was too nice for white, since if black A, white B is really good and black's shape leaves something to be desired.]
+(;B[rc]
+;W[qf]C[White is pretty good])
+(;B[qf]LB[qe:A]C[This is the current innovation - specifically a change in thinking, where now it is believed that black is good here. Just keep gaining thickness and let white grovel down there.
+
+Because of this, white has stopped playing the original probe move recently and has switched to either playing a simple classic variation, or making the attachment at A as in the AlphaGo-Lee Sedol matches.])))
+(;B[re]C[This is an active way of playing and has a lot of variations to remember.]
+;W[qe]LB[rc:C][pe:A][qf:D][rf:B]C[C is bad (white gets many nice forcing moves)
+A is active and right usually
+B is uncommon but totally playable with the right intentions
+D is not worth even considering.]
+(;B[rc]C[Bad move by black]
+;W[pd]
+;B[qc]
+;W[rf]
+;B[sd]
+;W[pm]
+;B[nq]
+;W[qi]C[Those sparse stones don't matter to white since they have already made positive exchanges with black's corner. Although they have good potential for making territory and being useful later on, they're also incredibly light and mean nothing to white. Black trying to capture them anytime soon is too slow.
+
+Since those stones have already forced black to play -1 type moves in the corner, capturing them would only bring black back to par. That would mean that you can imagine black's move that captures them as being played without those stones there, and it would surely then seem a horribly slow beginner-like move.
+
+This position is favourable for white even if black plays elsewhere now.])
+(;B[rf]
+;W[pd]
+;B[qc]
+;W[pc]
+(;B[qb]
+;W[pb]
+;B[md]C[Fighting]
+;W[of])
+(;B[pe]C[Wrong]
+;W[qb]))
+(;B[pe]
+;W[qf]
+;B[rf]
+(;W[qg]
+;B[rg]
+;W[qh]
+(;B[qc]
+;W[pn]
+(;B[nq]
+;W[qj]LB[rd:B][qe:A]C[This is the black can get if black responds to the corner probe with the outer hane.
+
+This has been considered the way for both for a while now, but people started saying white is better. 
+
+Research into black's nobi response at R15(A) after white's corner probe (B) has finally brought this black fuseki back to popularity. It had become unpopular because the result we see here is better for white, but now this opening is playable for black because black responds to B at A and uses updated variations and thinking.
+
+])
+(;B[qj]C[Possible]
+;W[oq]
+;B[or]
+;W[pp]
+;B[qr]
+;W[nq]
+;B[nr]
+;W[mq]
+;B[oj]C[It's a fight]))
+(;B[qj]
+;W[qi]
+;B[qc]
+;W[pj]
+;B[pn]
+;W[qm]))
+(;W[pd]C[Bad move]
+;B[qc]
+;W[pf]C[Really bad one]
+;B[qg]
+;W[pg]
+;B[qh]
+;W[oe]
+;B[pc])))))
+(;W[qj]C[Black is preferable.]
+;B[qn]
+;W[qg])
+(;W[qk]C[Black is preferable.]
+;B[qo]
+;W[qh])
+(;W[ql]C[Weird]
+;B[qj]
+;W[qo]
+;B[qp]
+;W[po]
+;B[np]C[Black is preferable.])
+(;W[qi]LB[qk:B][qo:A]C[A or B should be good enough]))
