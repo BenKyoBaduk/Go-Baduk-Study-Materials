@@ -1,7 +1,0 @@
-TO DO
-=====
-
-
-- Add more AlphaGo games
-- Check Go4Go and other sites for more game collections
-- Add some BenKyo Tutoring game reviews
